@@ -1,3 +1,3 @@
-#### Values JS
+#### Color Generator made by using React
 
-[values.js](https://github.com/noeldelgado/values.js)
+🔗 https://color-generator-by-dheeraj.netlify.app/
